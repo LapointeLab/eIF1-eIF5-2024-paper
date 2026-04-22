@@ -1,4 +1,4 @@
-Public Repository for "eIF1 and eIF5 dynamically control translation start site fidelity", published in 2025.
+Public Repository for "eIF1 and eIF5 dynamically control translation start site fidelity", published in NSMB in 2025.
 
 The 'Code' directory contains the matlab code used to analyze the single-molecule experiments.
 
